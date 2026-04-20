@@ -40,14 +40,6 @@ Integração de **LLMs**, automação de tarefas técnicas e workflows com agent
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=direquena&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Conecte-se comigo
 
 <p align="left">
