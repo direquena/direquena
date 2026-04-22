@@ -29,7 +29,7 @@ Também trabalho com **IA aplicada**, automação de fluxos e integração de ag
 
 ## 📂 Projetos e Experiência
 
-### **ReproSense / ReproSUI Pro **
+### **ReproSense / ReproSUI Pro**
 Desenvolvimento e manutenção de sistemas para gestão pecuária e reprodutiva, com foco em padronização, rastreabilidade, confiabilidade operacional e experiência do usuário.
 
 ### **Migração e estruturação de dados**
